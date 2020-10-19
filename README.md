@@ -1,2 +1,2 @@
 # sample-chain-ios-example
-Sample code to demonstrate how Crypto.com Chain C bindings can be used in an iOS project
+Sample code to demonstrate how Thaler Experimental Network C bindings can be used in an iOS project
